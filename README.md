@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shehab khaled roshdy</h1>
 <h3 align="center">Computer Engineering Student and a C++ developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://external-preview.redd.it/r2_7frE8KLq6se2EfXJ_fjw9B-qraBu1kAmuDX5RtYs.gif?width=400&format=mp4&v=enabled&s=c1eae00441d73c9374961881659ee225efb38e2f">
+<img align="right" alt="Coding" width="400" src="https://j.gifs.com/mLnWo7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehab299&label=Profile%20views&color=0e75b6&style=flat" alt="shehab299" /> </p>
 
