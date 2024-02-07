@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/boywhodidnlive" target="blank"><img src="https://img.shields.io/twitter/follow/boywhodidnlive?logo=twitter&style=for-the-badge" alt="boywhodidnlive" /></a> </p>
 
-- 🔭 I’m currently working on **OS-Scheduler-Simulator**
+- 🔭 I’m currently working on **Document Flow Automation System**
 
-- 🌱 I’m currently learning **Simulating Natural Systems , SFML , Software Engineering, and DSA**
+- 🌱 I’m currently learning **Backend Web Development**
 
-- 💬 Ask me about **machine learning , python , C++**
+- 💬 Ask me about **Javascript, Node.js , C++, Web Development**
 
 - 📫 How to reach me **shehab299@outlook.com**
 
