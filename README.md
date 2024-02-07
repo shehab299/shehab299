@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shehab khaled roshdy</h1>
-<h3 align="center">Computer Engineering Student and a C++ developer</h3>
+<h3 align="center">Computer Engineering Student and a Backend Web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://j.gifs.com/mLnWo7.gif">
 
