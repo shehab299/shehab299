@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=shehab299&label=Profile%20views&color=0e75b6&style=flat" alt="shehab299" />
 </p>
 
-- 🎓 **Senior Computer Engineering student** @ Cairo University (GPA: 3.8/4.0)  
+- 🎓 **Senior Computer Engineering student** @ Cairo University
 - 🛠️ Currently building a **Document Flow Automation System** for academic workflows  
 - 💡 Passionate about **LLM systems, backend architectures**, and **real-time applications**  
 - 👨‍💻 Interned at **Google Summer of Code** and **Siemens R&D**  
