@@ -87,7 +87,6 @@
 </div>
 
 ---
-
 ### ✍️ Writing
 
 - [The Big Deal with Types in Programming](https://medium.com/@shehab299/the-big-deal-with-types-in-programming-752d4db4048c)  
